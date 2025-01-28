@@ -55,3 +55,8 @@ select{
     margin-right: 100px;
     margin-top: 30px;
 }
+.link a{
+    /* list-style-type: none; */
+    text-decoration: none;
+    color: black;
+}
